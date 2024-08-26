@@ -19,9 +19,9 @@
 ## Estatísticas 
 
 <div>
-<a href="https://github.com/Marcela-Martins-Rap">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcela-Martins-Rap&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcela-Martins-Rap&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/MarcelaMartinsRap">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?usernameMarcelaMartinsRap&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcelaMartinsRap&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Contatos:
@@ -29,7 +29,7 @@
 <div>
 <a href="https://www.linkedin.com/in/marcela-martins01/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-![Snake animation](https://github.com/Marcela-Martins-Rap/Marcela-Martins-Rap/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MarcelaMartinsRap/MarcelaMartinsRap/blob/output/github-contribution-grid-snake.svg)
 
           
           

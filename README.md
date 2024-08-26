@@ -1,27 +1,29 @@
-# Olá eu sou Marcela Martins
+# Olá eu sou Marcela Martins  👋
 
-**Apaixonada por criar interfaces incríveis e transformar ideias em realidade.**
 
-## Olá, Mundo! 
+- 🔭 Atualmente estou trabalhando como estagiária na Compass.Uol como Desenvolvedor Front-End.
+- 👀 Estou interessado em Front-End
+- 🌱 Estou cursando análise e desenvolvimento de sistemas na UNIPÊ
+- 👯 Estou procurando colaborar com projetos open source
+- 📫 Como entrar em contato comigo: marcelamartinstec@gmail.com
+- 💞️ Procuro desenvolver projetos práticos para consolidar meus conhecimentos.
 
-Sou a Marcela, uma entusiasta em desenvolvimento de software em busca de novas oportunidades para aprender e crescer.
 
-**Habilidades em desenvolvimento:**
-* **Linguagens:** HTML, CSS, JavaScript
-* **Ferramentas:** Git, VS Code
-* **Aprendendo:** React, Node.js
+**Ferramnetas e tecnólogias**
 
-**Objetivos:**
-* Desenvolver projetos práticos para consolidar meus conhecimentos.
-* Contribuir para projetos open-source.
-* Aprender novas tecnologias e frameworks.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
 
-**Minha jornada:**
-* **Cursos:** Estou realizando o curso de Análise e Desenvolvimento de sistemas na UNIPÊ.
-* **Projetos pessoais:** Atualmente estou trabalhando em site de portifólio e uma página de agendamento de salão de beleza.
-* **Desafios:** Participo de desafios do meu estágio Front-End UOL Compass.
+## Contatos:
 
-**Vamos conectar!**
-Encontre-me no LinkedIn: https://www.linkedin.com/in/marcela-martins01/
+<div>
+<a href="https://www.linkedin.com/in/marcela-martins01/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-**#desenvolvedor #programador #aprendizagemcontínua #coding #github**
+          
+          
+
+

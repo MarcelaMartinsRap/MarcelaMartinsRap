@@ -38,6 +38,10 @@
 
 ###
 
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelamartinsrap&show_icons=true&locale=en" alt="marcelamartinsrap" /></p>
+
 <div align="left">
   <a href="https://www.instagram.com/manti_s2028/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -50,13 +54,6 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/marcelamartinsrap/marcelamartinsrap/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelamartinsrap&show_icons=true&locale=en" alt="marcelamartinsrap" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelamartinsrap&" alt="marcelamartinsrap" /></p>
 
 <img src="https://raw.githubusercontent.com/marcelamartinsrap/marcelamartinsrap/output/snake.svg" alt="Snake animation" />
 

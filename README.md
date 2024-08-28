@@ -50,11 +50,9 @@
   </a>
 </div>
 
+<img src="https://raw.githubusercontent.com/marcelamartinsrap/marcelamartinsrap/output/snake.svg" alt="Snake animation" />
+
 ###
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelamartinsrap&show_icons=true&locale=en&layout=compact" alt="marcelamartinsrap" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelamartinsrap&show_icons=true&locale=en" alt="marcelamartinsrap" /></p>
 

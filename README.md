@@ -33,4 +33,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Marcela Martins's GitHub Stats](https://camo.githubusercontent.com/b811263a42948224d4daab5996653ed1587a3922ecf0e2c527d61b55dd67f889/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d617263656c616d617274696e737261702673686f775f69636f6e733d74727565266c6f63616c653d656e_icons=true&theme=dracula)
+![Marcela Martins's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha&show_icons=true&theme=dracula)

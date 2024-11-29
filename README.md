@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou a Marcela Martins, um desenvolvedor front end apaixonado pelo que faz!</h1>
+<h1 align="center">👋 &nbsp;Olá, eu sou a Marcela Martins, uma desenvolvedora front end apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/marcela-martins01/"><img src="https://img.shields.io/badge/-Marcela%20Martins-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:marcelamartinstec@gmail.com"><img src="https://img.shields.io/badge/-marcelamartinstec@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>

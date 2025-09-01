@@ -6,10 +6,11 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp;   Sou desenvolvedora Full-Stack em início de carreira, com experiência em React, TypeScript e Next.js. Minha jornada na tecnologia começou no ensino médio e foi consolidada durante meu curso técnico no IFPB, onde tive minhas primeiras experiências práticas com programação. Desde então, venho aprimorando minhas habilidades e explorando novas ferramentas e tecnologias para evoluir como profissional. 
+- 👨🏻‍💻 &nbsp;   Sou desenvolvedora Full-Stack em início de carreira, com experiência em React, TypeScript, Next.js, Node e Nest. Minha jornada na tecnologia começou no ensino médio e foi consolidada durante meu curso técnico no IFPB, onde tive minhas primeiras experiências práticas com programação. Desde então, venho aprimorando minhas habilidades e explorando novas ferramentas e tecnologias para evoluir como profissional. 
 - 💚 &nbsp;  Acredito que a colaboração e a educação são essenciais para o crescimento na carreira. No meu dia a dia, busco sempre compartilhar o que aprendo com meus colegas, criando um ambiente de aprendizado mútuo e troca constante de experiências. Minha paixão por tecnologia reflete meu compromisso em evoluir junto com outros profissionais e em buscar excelência no que faço.
 - 🚀 &nbsp;  Atualmente, estou em processo de aprofundamento das minhas habilidades técnicas e colaborativas, trabalhando com React.js, AWS, e outras tecnologias modernas em projetos desafiadores.
-- 🏎 &nbsp; Sou apaixonado por jiu jitsu, e costumo assistir um bom filme no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
+- <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/acb84495-c31c-467d-a813-8f81c6a5e276" />
+ &nbsp; Sou apaixonado por jiu jitsu, e costumo assistir um bom filme no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
 - 💵 &nbsp; Também gosto muito de literatura e Guns N' Roses.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>

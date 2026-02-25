@@ -1,4 +1,4 @@
-<h1 align="center">👋 &nbsp;Olá, eu sou a Marcela Martins, uma desenvolvedora front end apaixonado pelo que faz!</h1>
+<h1 align="center">👋 &nbsp;Olá, eu sou a Marcela Martins, desenvolvedora Full Stack apaixonada por tecnologia!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/marcela-martins01/"><img src="https://img.shields.io/badge/-Marcela%20Martins-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:marcelamartinstec@gmail.com"><img src="https://img.shields.io/badge/-marcelamartinstec@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -6,13 +6,18 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp;   Sou desenvolvedora Full-Stack em início de carreira, com experiência em React, TypeScript, Next.js, Node e Nest. Minha jornada na tecnologia começou no ensino médio e foi consolidada durante meu curso técnico no IFPB, onde tive minhas primeiras experiências práticas com programação. Desde então, venho aprimorando minhas habilidades e explorando novas ferramentas e tecnologias para evoluir como profissional. 
-- 💚 &nbsp;  Acredito que a colaboração e a educação são essenciais para o crescimento na carreira. No meu dia a dia, busco sempre compartilhar o que aprendo com meus colegas, criando um ambiente de aprendizado mútuo e troca constante de experiências. Minha paixão por tecnologia reflete meu compromisso em evoluir junto com outros profissionais e em buscar excelência no que faço.
-- 🚀 &nbsp;  Atualmente, estou em processo de aprofundamento das minhas habilidades técnicas e colaborativas, trabalhando com React.js, AWS, e outras tecnologias modernas em projetos desafiadores.
-- 🚀 &nbsp; Sou apaixonado por jiu jitsu, e costumo assistir um bom filme no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
-- 🚀 &nbsp; Também gosto muito de literatura e Guns N' Roses.
+- 👩🏻‍💻 &nbsp; Desenvolvedora Full Stack Júnior com forte base em Front-End e atuação crescente em Back-End. Trabalho com React, Next.js, TypeScript, Node.js e NestJS, aplicando Clean Code e princípios de arquitetura para construir aplicações escaláveis e seguras.
+
+- 🧠 &nbsp; Tenho experiência prática com integração de APIs REST, modelagem de dados com PostgreSQL e MySQL, autenticação, segurança de rotas e uso consistente de TypeScript em toda a stack.
+
+- ☁️ &nbsp; Experiência com AWS (S3, EC2, Lambda e API Gateway), deploy de aplicações e versionamento disciplinado com Git e code review.
+
+- 💚 &nbsp; Acredito que colaboração e compartilhamento aceleram crescimento. Busco evoluir tecnicamente enquanto contribuo para ambientes organizados, bem documentados e sustentáveis.
+
+- 🥋 &nbsp; Faço jiu-jitsu, gosto de literatura e sempre tem um Guns N’ Roses tocando enquanto resolvo bugs difíceis.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
+
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -20,14 +25,20 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+<h3>☁️ &nbsp;Cloud:</h3>
+
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 

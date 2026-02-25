@@ -42,4 +42,3 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Marcela Martins's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelaMartinsRap&show_icons=true&theme=dracula)

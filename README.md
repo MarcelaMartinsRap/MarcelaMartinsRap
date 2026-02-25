@@ -40,5 +40,4 @@
 
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 

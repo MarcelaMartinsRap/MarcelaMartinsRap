@@ -1,44 +1,166 @@
-<h1 align="center">👋 Hi, I'm Marcela Martins!</h1>
+<h1 align="center">Hi, I'm Marcela Martins 👋</h1>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcela-martins01/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:marcelamartinstec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <strong>Full-Stack Developer • TypeScript • React • Next.js • Node.js • NestJS</strong>
 </p>
 
-## 👨🏻‍💻 About Me | Sobre Mim
+<p align="center">
+Building scalable web applications with modern engineering practices.
+</p>
 
-- 👩🏻‍💻 **EN:** Full Stack Developer focused on the **TypeScript** ecosystem (React, Next.js, Node.js, and NestJS). I apply Clean Code and architectural principles to build scalable and secure applications. Currently pursuing a **B.S. in Physics**, which strengthens my analytical and logical approach to software engineering.
-- 🇧🇷 **PT:** Desenvolvedora Full Stack focada no ecossistema **TypeScript** (React, Next.js, Node.js e NestJS). Aplico Clean Code e princípios de arquitetura para construir aplicações escaláveis e seguras. Atualmente cursando **Bacharelado em Física**, o que reforça minha abordagem analítica e lógica na engenharia de software.
+<p align="center">
+  <a href="README.pt-BR.md">
+    <img src="https://img.shields.io/badge/🇧🇷-Português-success?style=for-the-badge"/>
+  </a>
 
-- 🧠 **EN:** Hands-on experience with REST APIs, database modeling (PostgreSQL/MySQL), authentication, and cloud infrastructure.
-- 🇧🇷 **PT:** Experiência prática com APIs REST, modelagem de dados (PostgreSQL/MySQL), autenticação e infraestrutura em nuvem.
+  <a href="https://www.linkedin.com/in/marcela-martins01/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-- ☁️ **EN:** Familiar with **AWS core services** (S3, EC2) and deployment workflows, maintaining disciplined version control with Git and focused code reviews.
-- 🇧🇷 **PT:** Conhecimento em serviços core da **AWS** (S3, EC2) e fluxos de deploy, mantendo controle de versão disciplinado com Git e code reviews focados.
-
-- 🥋 **EN:** Outside of code, I practice Jiu-Jitsu and enjoy literature.
-- 🇧🇷 **PT:** Fora do código, pratico Jiu-Jitsu e gosto de literatura.
+  <a href="mailto:marcelamartinstec@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 👩🏻‍💻 About Me
 
-### 💻 Front-end
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+I'm a Full-Stack Developer passionate about building scalable, maintainable and secure software.
 
-### ⚙️ Back-end & Database
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
-![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+My main experience is centered around the TypeScript ecosystem, developing web applications with React, Next.js, Node.js and NestJS, as well as working with REST APIs, authentication, third-party integrations and SQL/NoSQL databases.
 
-### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+I enjoy solving complex problems, improving software architecture and writing clean, readable and maintainable code.
+
+Alongside software engineering, I continuously study mathematics and physics to strengthen my analytical thinking, logical reasoning and problem-solving skills.
+
+---
+
+# 💼 What I Do
+
+- Full-Stack Web Development
+- REST API Development
+- Authentication & Authorization
+- Database Modeling
+- Third-party API Integrations
+- Software Architecture
+- Clean Code
+- SOLID Principles
+- Code Review
+- Agile Development
+
+---
+
+# 🛠 Tech Stack
+
+## Front-end
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs"/>
+
+</p>
+
+## Back-end
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,adonis,php,laravel"/>
+
+</p>
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+
+</p>
+
+## DevOps & Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,postman"/>
+
+</p>
+
+## Testing
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=jest"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+I believe great engineers never stop learning.
+
+Currently studying:
+
+- Kubernetes
+- CI/CD
+- Docker Best Practices
+- AWS
+- Observability
+- Software Architecture
+- Distributed Systems
+- Event-Driven Architecture
+- Artificial Intelligence Engineering
+- AI Agents
+- Large Language Models (LLMs)
+
+---
+
+# 🚀 Current Goals
+
+- Build production-ready projects
+- Contribute to Open Source
+- Deepen Cloud and DevOps knowledge
+- Improve System Design skills
+- Develop AI-powered applications
+- Grow as a Software Engineer
+
+---
+
+# 🌎 Languages
+
+🇧🇷 Portuguese — Native
+
+🇺🇸 English — Intermediate (actively improving)
+
+---
+
+# 📚 Beyond Software
+
+When I'm away from the keyboard, you'll usually find me:
+
+- 🥋 Practicing Jiu-Jitsu
+- 📖 Reading books
+- 🧠 Studying mathematics and physics
+- 🚀 Exploring new technologies
+
+---
+
+# 📫 Contact
+
+📧 **Email**
+
+**marcelamartinstec@gmail.com**
+
+💼 **LinkedIn**
+
+**linkedin.com/in/marcela-martins01**
+
+---
+
+<div align="center">
+
+### Thanks for visiting! ⭐
+
+Always open to collaborating on interesting projects and learning something new.
+
+</div>

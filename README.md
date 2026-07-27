@@ -68,16 +68,6 @@ const marcela = {
 
 I'm currently pursuing a degree in **Systems Analysis and Development at UNIPÊ** and hold a technical degree in Information Technology from **IFPB**.
 
-<details>
-<summary><strong>Contribution activity</strong></summary>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcelaMartinsRap/MarcelaMartinsRap/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcelaMartinsRap/MarcelaMartinsRap/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/MarcelaMartinsRap/MarcelaMartinsRap/output/github-contribution-grid-snake.svg">
-</picture>
-</details>
-
 ## Let's connect
 
 I'm open to conversations about software engineering, product development, integrations, and opportunities to build useful technology.

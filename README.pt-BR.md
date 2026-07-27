@@ -68,16 +68,6 @@ const marcela = {
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas no UNIPÊ** e sou técnica em Informática pelo **IFPB**.
 
-<details>
-<summary><strong>Atividade de contribuições</strong></summary>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcelaMartinsRap/MarcelaMartinsRap/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcelaMartinsRap/MarcelaMartinsRap/output/github-contribution-grid-snake.svg">
-  <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/MarcelaMartinsRap/MarcelaMartinsRap/output/github-contribution-grid-snake.svg">
-</picture>
-</details>
-
 ## Vamos conversar
 
 Estou aberta a conversas sobre engenharia de software, desenvolvimento de produtos, integrações e oportunidades para construir tecnologia útil.

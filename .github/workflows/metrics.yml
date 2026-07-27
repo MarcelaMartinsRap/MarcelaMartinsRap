@@ -1,1 +1,58 @@
 
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.svg
+
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: MarcelaMartinsRap
+
+          template: classic
+
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: America/Sao_Paulo
+
+          plugin_languages: yes
+          plugin_languages_sections: most-used,recent
+          plugin_languages_limit: 8
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 30
+
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+
+          plugin_activity: yes
+          plugin_activity_limit: 10
+          plugin_activity_days: 30
+
+          plugin_isocalendar: yes
+
+          plugin_repositories: yes
+          plugin_repositories_featured: MarcelaMartinsRap/MarcelaMartinsRap
+          plugin_repositories_affiliations: owner
+
+          plugin_followup: yes
+
+          plugin_lines: yes
+
+          plugin_topics: yes
+          plugin_topics_limit: 20
+
+          plugin_stars: yes

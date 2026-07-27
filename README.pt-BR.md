@@ -18,9 +18,9 @@ Desenvolvo produtos confiáveis e escaláveis com **TypeScript, Node.js, React e
 
 ## Atividade de engenharia
 
-<img src="./assets/metrics.svg" alt="Métricas de engenharia de Marcela Martins no GitHub" width="100%">
+<img src="https://metrics.lecoq.io/MarcelaMartinsRap?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=America%2FSao_Paulo" alt="Métricas de engenharia de Marcela Martins no GitHub" width="100%">
 
-<sub>Atualizado automaticamente todos os dias com lowlighter/metrics</sub>
+<sub>Painel de engenharia ao vivo criado com lowlighter/metrics</sub>
 
 </div>
 

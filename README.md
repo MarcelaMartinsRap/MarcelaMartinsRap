@@ -18,9 +18,9 @@ I build reliable, scalable products with **TypeScript, Node.js, React, and cloud
 
 ## Engineering activity
 
-<img src="./assets/metrics.svg" alt="Marcela Martins' GitHub engineering metrics" width="100%">
+<img src="https://metrics.lecoq.io/MarcelaMartinsRap?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=America%2FSao_Paulo" alt="Marcela Martins' GitHub engineering metrics" width="100%">
 
-<sub>Automatically refreshed every day with lowlighter/metrics</sub>
+<sub>Live engineering dashboard powered by lowlighter/metrics</sub>
 
 </div>
 

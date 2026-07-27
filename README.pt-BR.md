@@ -1,114 +1,86 @@
-<h1 align="center">👋 Olá, eu sou a Marcela Martins!</h1>
+<div align="center">
 
-<h3 align="center">
-Desenvolvedora Full-Stack • TypeScript • React • Next.js • Node.js • NestJS
-</h3>
+# Marcela Martins
 
-<p align="center">
-  Construindo aplicações web modernas, escaláveis e de alta qualidade.
-</p>
+### Engenheira de Software Full Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/marcela-martins01/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:marcelamartinstec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="./README.md"><img src="https://img.shields.io/badge/🇺🇸-English-success?style=flat-square"/></a>
-</p>
+Desenvolvo produtos confiáveis e escaláveis com **TypeScript, Node.js, React e tecnologias cloud**.
+
+[![English](https://img.shields.io/badge/English-1877F2?style=for-the-badge&logo=googletranslate&logoColor=white)](./README.md)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcela-martins01/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelamartinstec@gmail.com)
+
+</div>
 
 ---
 
-## 👩🏻‍💻 Sobre Mim
+## Sobre mim
 
-- 👩🏻‍💻 Desenvolvedora Full-Stack focada no ecossistema **TypeScript** (React, Next.js, Node.js e NestJS). Aplico Clean Code e princípios de arquitetura para construir aplicações escaláveis, legíveis e seguras. Atualmente cursando **Bacharelado em Física**, o que reforça minha abordagem analítica e lógica na engenharia de software.
+Sou Engenheira de Software Full Stack brasileira e trabalho com plataformas em produção e integrações complexas. Minha experiência abrange serviços backend, interfaces web modernas, comunicação em tempo real, infraestrutura cloud e modernização de sistemas legados.
 
-- 🧠 Experiência prática com APIs REST, modelagem de dados (PostgreSQL, MySQL, MongoDB, Redis), autenticação, autorização e infraestrutura em nuvem.
+Na **Meets Tecnologia**, desenvolvo sistemas omnichannel de atendimento ao cliente e atuo intensamente com a **Meta Graph API e a Plataforma do WhatsApp Business**. Projeto APIs, estabilizo fluxos de webhooks e chatbots, processo mídias de forma assíncrona e sincronizo experiências em tempo real com WebSockets.
 
-- ☁️ Conhecimento em serviços core da **AWS** (S3, EC2), Docker e fluxos de deploy, mantendo controle de versão disciplinado com Git e code reviews focados.
+```ts
+const marcela = {
+  cargo: "Engenheira de Software Full Stack",
+  localização: "Brasil",
+  construindo: ["APIs", "plataformas SaaS", "sistemas em tempo real"],
+  princípios: ["Clean Architecture", "SOLID", "confiabilidade"],
+  estudando: ["engenharia de IA", "observabilidade", "Kubernetes"],
+};
+```
 
-- 🥋 Fora do código, pratico Jiu-Jitsu e gosto de literatura.
+## Tecnologias e práticas
 
----
+| Área | Tecnologias e práticas |
+| --- | --- |
+| **Backend** | Node.js, TypeScript, NestJS, AdonisJS, Express, PHP, APIs REST |
+| **Frontend** | React, Next.js, JavaScript, HTML, CSS, Shadcn UI |
+| **Dados** | PostgreSQL, MySQL, MongoDB, Redis, Prisma |
+| **Integrações** | Meta Graph API, WhatsApp Business, webhooks, Socket.io |
+| **Cloud & Entrega** | AWS S3, EC2, Lambda, API Gateway, Docker, GitHub Actions |
+| **Engenharia** | Clean Architecture, SOLID, Jest, code review, Agile/Scrum |
 
-## 🚀 O que eu construo
+## Foco atual
 
-- 🛠️ **APIs REST** e Sistemas Distribuídos
-- 💻 **Plataformas SaaS** e Aplicações Corporativas
-- 📊 **Dashboards** e Sistemas de Gestão
-- 🤖 **Aplicações com Inteligência Artificial**
-- 🔐 **Design de Sistemas de Autenticação e Autorização**
-- 🗄️ **Modelagem e Otimização de Bancos de Dados**
+- Construção de APIs resilientes e integrações orientadas a eventos
+- Modernização de sistemas legados para serviços Node.js sustentáveis
+- Evolução de observabilidade, testes automatizados e pipelines de entrega
+- Aplicação de IA em produtos e fluxos práticos de engenharia
 
----
+## Trajetória profissional
 
-## ⭐ Projetos em Destaque
+```text
+2025 — atual  Desenvolvedora Full Stack · Meets Tecnologia
+2024 — 2025   Estagiária na Trilha Front-End AWS · Compass UOL
+2021 — 2023   Aprendiz de Suporte de TI · Usina Giasa
+```
 
-### 🏥 CareOps Platform *(Em desenvolvimento)*
-> **Plataforma SaaS para Gestão de Clínicas**
-> 
-> **Tech Stack:** Next.js • NestJS • PostgreSQL • Redis • RabbitMQ • Docker • Kubernetes • Grafana • Prometheus
+Atualmente curso **Análise e Desenvolvimento de Sistemas no UNIPÊ** e sou técnica em Informática pelo **IFPB**.
 
-### 📦 Inventory Platform
-> Sistema para detecção de anomalias em estoque.
+## Métricas do GitHub
 
-### 💰 Finance.dev
-> Sistema de gestão financeira pessoal.
+<div align="center">
+  <img src="./assets/metrics.svg" alt="Métricas do GitHub de Marcela Martins" width="100%">
+</div>
 
----
+<details>
+<summary><strong>Atividade de contribuições</strong></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcelaMartinsRap/MarcelaMartinsRap/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcelaMartinsRap/MarcelaMartinsRap/output/github-contribution-grid-snake.svg">
+  <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/MarcelaMartinsRap/MarcelaMartinsRap/output/github-contribution-grid-snake.svg">
+</picture>
+</details>
 
-## 🛠 Tecnologias
+## Vamos conversar
 
-### 💻 Front-end
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+Estou aberta a conversas sobre engenharia de software, desenvolvimento de produtos, integrações e oportunidades para construir tecnologia útil.
 
-### ⚙️ Back-end
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=FF2D20)
+- [LinkedIn](https://www.linkedin.com/in/marcela-martins01/)
+- [E-mail](mailto:marcelamartinstec@gmail.com)
 
-### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=DC382D)
-![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws&logoColor=232F3E)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions&logoColor=2088FF)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
-
----
-
-## 📚 Estudando Atualmente
-
-- ☸️ Kubernetes
-- 🔭 Observabilidade & OpenTelemetry
-- 📊 Prometheus & Grafana
-- 🤖 Agentes de IA / Inteligência Artificial
-- 🔄 Arquitetura Orientada a Eventos
-
----
-
-## 🌎 Idiomas
-
-- 🇧🇷 **Português:** Nativo
-- 🇺🇸 **Inglês:** Intermediário
-
----
-
-## 🤝 Contato
-
-- 📧 **E-mail:** [marcelamartinstec@gmail.com](mailto:marcelamartinstec@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/marcela-martins01](https://www.linkedin.com/in/marcela-martins01/)
-
----
-
-<p align="center">
-  ⭐ Obrigada por visitar meu perfil!
-</p>
+<div align="center">
+  <sub>Português (nativo) · Inglês (intermediário)</sub>
+</div>

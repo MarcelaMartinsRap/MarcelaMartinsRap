@@ -1,150 +1,86 @@
 <div align="center">
 
-# 👋 Hi, I'm Marcela Martins
+# Marcela Martins
 
 ### Full-Stack Software Engineer
 
-TypeScript • React • Next.js • Node.js • NestJS
+I build reliable, scalable products with **TypeScript, Node.js, React, and cloud technologies**.
 
-Building scalable software with modern engineering practices.
-
-<br>
-
-<a href="README.pt-BR.md">
-<img src="https://img.shields.io/badge/🇧🇷-Português-success?style=for-the-badge">
-</a>
-
-<a href="https://www.linkedin.com/in/marcela-martins01/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:marcelamartinstec@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+[![Português](https://img.shields.io/badge/Português-009C3B?style=for-the-badge&logo=googletranslate&logoColor=white)](./README.pt-BR.md)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcela-martins01/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelamartinstec@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About
+## About me
+
+I'm a Full-Stack Software Engineer from Brazil working on production platforms and complex integrations. My experience spans backend services, modern web interfaces, real-time communication, cloud infrastructure, and legacy modernization.
+
+At **Meets Tecnologia**, I develop omnichannel customer-service systems and work extensively with the **Meta Graph API and WhatsApp Business Platform**. I design APIs, stabilize webhook and chatbot flows, process media asynchronously, and synchronize user experiences through WebSockets.
 
 ```ts
 const marcela = {
   role: "Full-Stack Software Engineer",
-  location: "Brazil 🇧🇷",
-  stack: ["TypeScript", "React", "Next.js", "NestJS"],
-
-  interests: [
-    "Software Architecture",
-    "Cloud",
-    "DevOps",
-    "AI",
-    "Distributed Systems"
-  ]
-}
+  location: "Brazil",
+  building: ["APIs", "SaaS platforms", "real-time systems"],
+  principles: ["Clean Architecture", "SOLID", "reliability"],
+  currentlyExploring: ["AI engineering", "observability", "Kubernetes"],
+};
 ```
 
----
+## What I work with
 
-## 💼 Focus
+| Area | Technologies and practices |
+| --- | --- |
+| **Backend** | Node.js, TypeScript, NestJS, AdonisJS, Express, PHP, REST APIs |
+| **Frontend** | React, Next.js, JavaScript, HTML, CSS, Shadcn UI |
+| **Data** | PostgreSQL, MySQL, MongoDB, Redis, Prisma |
+| **Integrations** | Meta Graph API, WhatsApp Business, webhooks, Socket.io |
+| **Cloud & Delivery** | AWS S3, EC2, Lambda, API Gateway, Docker, GitHub Actions |
+| **Engineering** | Clean Architecture, SOLID, Jest, code review, Agile/Scrum |
 
-🟢 Backend Engineering
+## Current focus
 
-🟢 Full Stack Development
+- Building resilient APIs and event-driven integrations
+- Modernizing legacy systems into maintainable Node.js services
+- Improving observability, automated testing, and delivery pipelines
+- Applying AI to practical product and engineering workflows
 
-🟢 REST APIs
+## Professional journey
 
-🟢 Clean Architecture
+```text
+2025 — now   Full-Stack Developer · Meets Tecnologia
+2024 — 2025  Front-End AWS Track Intern · Compass UOL
+2021 — 2023  IT Support Apprentice · Usina Giasa
+```
 
-🟢 Cloud Applications
+I'm currently pursuing a degree in **Systems Analysis and Development at UNIPÊ** and hold a technical degree in Information Technology from **IFPB**.
 
-🟢 Artificial Intelligence
-
----
-
-## ⭐ Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🏥 CareOps | Healthcare SaaS Platform | Next.js • NestJS |
-| 📦 Inventory Platform | Inventory Management | NestJS • PostgreSQL |
-| 💰 Finance.dev | Personal Finance | React • Node.js |
-| 🛒 AgilStore | E-commerce Platform | React • Laravel |
-
----
-
-## ⚙️ Tech Stack
-
-### Front-end
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css"/>
-
-</p>
-
-### Back-end
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
-
-</p>
-
-### DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions"/>
-
-</p>
-
----
-
-## 📚 Learning
-
-- ☸ Kubernetes
-
-- 📊 Observability
-
-- 🤖 AI Engineering
-
-- 🚀 CI/CD
-
-- 🔄 Event-Driven Architecture
-
----
-
-## 🌎 Languages
-
-🇧🇷 Portuguese (Native)
-
-🇺🇸 English (Intermediate)
-
----
-
-## 📫 Contact
-
-📧 **Email**
-
-**marcelamartinstec@gmail.com**
-
-💼 **LinkedIn**
-
-linkedin.com/in/marcela-martins01
-
----
+## GitHub metrics
 
 <div align="center">
+  <img src="./assets/metrics.svg" alt="Marcela Martins' GitHub metrics" width="100%">
+</div>
 
-⭐ Thanks for visiting!
+<details>
+<summary><strong>Contribution activity</strong></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcelaMartinsRap/MarcelaMartinsRap/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcelaMartinsRap/MarcelaMartinsRap/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/MarcelaMartinsRap/MarcelaMartinsRap/output/github-contribution-grid-snake.svg">
+</picture>
+</details>
 
+## Let's connect
+
+I'm open to conversations about software engineering, product development, integrations, and opportunities to build useful technology.
+
+- [LinkedIn](https://www.linkedin.com/in/marcela-martins01/)
+- [Email](mailto:marcelamartinstec@gmail.com)
+
+<div align="center">
+  <sub>Portuguese (native) · English (intermediate)</sub>
 </div>

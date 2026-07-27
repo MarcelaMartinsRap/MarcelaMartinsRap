@@ -14,6 +14,16 @@ Desenvolvo produtos confiáveis e escaláveis com **TypeScript, Node.js, React e
 
 ---
 
+<div align="center">
+
+## Atividade de engenharia
+
+<img src="./assets/metrics.svg" alt="Métricas de engenharia de Marcela Martins no GitHub" width="100%">
+
+<sub>Atualizado automaticamente todos os dias com lowlighter/metrics</sub>
+
+</div>
+
 ## Sobre mim
 
 Sou Engenheira de Software Full Stack brasileira e trabalho com plataformas em produção e integrações complexas. Minha experiência abrange serviços backend, interfaces web modernas, comunicação em tempo real, infraestrutura cloud e modernização de sistemas legados.
@@ -57,12 +67,6 @@ const marcela = {
 ```
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas no UNIPÊ** e sou técnica em Informática pelo **IFPB**.
-
-## Métricas do GitHub
-
-<div align="center">
-  <img src="./assets/metrics.svg" alt="Métricas do GitHub de Marcela Martins" width="100%">
-</div>
 
 <details>
 <summary><strong>Atividade de contribuições</strong></summary>

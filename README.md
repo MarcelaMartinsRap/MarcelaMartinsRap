@@ -14,6 +14,16 @@ I build reliable, scalable products with **TypeScript, Node.js, React, and cloud
 
 ---
 
+<div align="center">
+
+## Engineering activity
+
+<img src="./assets/metrics.svg" alt="Marcela Martins' GitHub engineering metrics" width="100%">
+
+<sub>Automatically refreshed every day with lowlighter/metrics</sub>
+
+</div>
+
 ## About me
 
 I'm a Full-Stack Software Engineer from Brazil working on production platforms and complex integrations. My experience spans backend services, modern web interfaces, real-time communication, cloud infrastructure, and legacy modernization.
@@ -57,12 +67,6 @@ const marcela = {
 ```
 
 I'm currently pursuing a degree in **Systems Analysis and Development at UNIPÊ** and hold a technical degree in Information Technology from **IFPB**.
-
-## GitHub metrics
-
-<div align="center">
-  <img src="./assets/metrics.svg" alt="Marcela Martins' GitHub metrics" width="100%">
-</div>
 
 <details>
 <summary><strong>Contribution activity</strong></summary>

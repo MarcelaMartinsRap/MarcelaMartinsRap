@@ -1,56 +1,66 @@
 <div align="center">
 
-# Marcela Martins
+# ⟡ MARCELA MARTINS ⟡
 
-### Full-Stack Software Engineer · Backend-minded · Building reliable systems
+### FULL-STACK SOFTWARE ENGINEER // SYSTEMS & SIGNALS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcela-martins01/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcelaMartinsRap)
+![Status](https://img.shields.io/badge/STATUS-BUILDING_RELIABLE_SYSTEMS-9D4EDD?style=for-the-badge&labelColor=10002B)
+![Location](https://img.shields.io/badge/BASE-BRAZIL-00E5FF?style=for-the-badge&labelColor=10002B)
+
+[![LinkedIn](https://img.shields.io/badge/CONNECT_LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10002B)](https://www.linkedin.com/in/marcela-martins01/)
+[![GitHub](https://img.shields.io/badge/OPEN_GITHUB-F72585?style=for-the-badge&logo=github&logoColor=white&labelColor=10002B)](https://github.com/MarcelaMartinsRap)
 
 </div>
 
 ---
 
-## 👋 About me
+## ◈ SYSTEM_PROFILE
 
-I’m a Full-Stack Software Engineer focused on turning complex business requirements into maintainable web applications, backend services, and integrations.
+> Full-Stack Software Engineer building web applications, backend services, and integrations that need to work outside the happy path.
 
-My work sits at the intersection of **TypeScript**, **Node.js**, **NestJS**, **React**, and **Next.js** — with special interest in how systems behave in production: APIs, webhooks, queues, databases, logs, and reliability.
+I work with **TypeScript, Node.js, NestJS, React, and Next.js**. I’m especially interested in the invisible layer behind products: APIs, webhooks, queues, databases, logs, and the decisions that keep systems reliable in production.
 
-## ⚙️ Toolbox
+```txt
+signal detected → understand context → validate evidence → ship a maintainable solution
+```
+
+## ◈ TECH_MATRIX
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=10002B)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=10002B)
+![NestJS](https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=10002B)
+![React](https://img.shields.io/badge/REACT-00D8FF?style=for-the-badge&logo=react&logoColor=061923&labelColor=10002B)
+![Next.js](https://img.shields.io/badge/NEXT.JS-EDEDED?style=for-the-badge&logo=nextdotjs&logoColor=10002B&labelColor=10002B)
+
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=10002B)
+![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=10002B)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=10002B)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=10002B&labelColor=10002B)
 
 </div>
 
-## 🔍 How I work
+## ◈ OPERATING_PRINCIPLES
 
-- **Understand the context** before choosing a fix
-- **Validate assumptions with evidence** through logs, data, and reproduction
-- **Build for evolution** with clear boundaries, maintainable code, and practical documentation
+| Signal | Response |
+| :-- | :-- |
+| **Complex issue** | Reproduce it, inspect logs, isolate the root cause. |
+| **Integration** | Treat contracts, retries, and edge cases as first-class work. |
+| **New feature** | Design for clarity, maintenance, and future change. |
 
-## 🚧 Building next
+## ◈ CURRENT_TRANSMISSION
 
-**Pulse Desk** — an operations dashboard for clients, tasks, and metrics. It will demonstrate authentication, REST APIs, PostgreSQL, Docker, and real product decisions from end to end.
+**Pulse Desk** is the next build: an operations dashboard for clients, tasks, and metrics — designed to demonstrate authentication, REST APIs, PostgreSQL, Docker, and product decisions end to end.
 
-## 🌱 Exploring
+## ◈ EXPLORING
 
-Backend architecture · distributed systems · cloud computing · observability · physics through software
+backend architecture · distributed systems · cloud computing · observability · physics through software
 
 ---
 
 <div align="center">
 
-*Reliable software starts with careful questions.*
+**// curious systems deserve careful engineering. //**
 
 </div>

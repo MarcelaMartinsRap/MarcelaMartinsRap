@@ -1,166 +1,25 @@
-<h1 align="center">Hi, I'm Marcela Martins 👋</h1>
+# Hi, I'm Marcela Martins 👋
 
-<p align="center">
-  <strong>Full-Stack Developer • TypeScript • React • Next.js • Node.js • NestJS</strong>
-</p>
+Full-Stack Software Engineer focused on building reliable web applications, backend services, and integrations with **TypeScript**, **Node.js**, **NestJS**, **React**, and **Next.js**.
 
-<p align="center">
-Building scalable web applications with modern engineering practices.
-</p>
+## About me
 
-<p align="center">
-  <a href="README.pt-BR.md">
-    <img src="https://img.shields.io/badge/🇧🇷-Português-success?style=for-the-badge"/>
-  </a>
+- Building REST APIs, webhooks, asynchronous workflows, and production-ready web interfaces
+- Working with PostgreSQL, MySQL, MongoDB, Redis, Docker, queues, and AWS services
+- Interested in backend engineering, software architecture, distributed systems, cloud computing, and observability
+- Background in the Compass UOL React + AWS Program and hands-on experience across frontend and backend development
 
-  <a href="https://www.linkedin.com/in/marcela-martins01/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+## Core stack
 
-  <a href="mailto:marcelamartinstec@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+**Frontend:** React · Next.js · TypeScript · JavaScript  
+**Backend:** Node.js · NestJS · REST APIs · PHP  
+**Data & infrastructure:** PostgreSQL · MySQL · MongoDB · Redis · Docker · AWS  
+**Practices:** Git · CI/CD · debugging · integrations · system maintenance
 
----
+## What I value
 
-# 👩🏻‍💻 About Me
+I enjoy understanding complex problems, validating assumptions with evidence, and delivering solutions that are maintainable, observable, and ready to evolve.
 
-I'm a Full-Stack Developer passionate about building scalable, maintainable and secure software.
+## Connect
 
-My main experience is centered around the TypeScript ecosystem, developing web applications with React, Next.js, Node.js and NestJS, as well as working with REST APIs, authentication, third-party integrations and SQL/NoSQL databases.
-
-I enjoy solving complex problems, improving software architecture and writing clean, readable and maintainable code.
-
-Alongside software engineering, I continuously study mathematics and physics to strengthen my analytical thinking, logical reasoning and problem-solving skills.
-
----
-
-# 💼 What I Do
-
-- Full-Stack Web Development
-- REST API Development
-- Authentication & Authorization
-- Database Modeling
-- Third-party API Integrations
-- Software Architecture
-- Clean Code
-- SOLID Principles
-- Code Review
-- Agile Development
-
----
-
-# 🛠 Tech Stack
-
-## Front-end
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs"/>
-
-</p>
-
-## Back-end
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,adonis,php,laravel"/>
-
-</p>
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
-
-</p>
-
-## DevOps & Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,postman"/>
-
-</p>
-
-## Testing
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=jest"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-I believe great engineers never stop learning.
-
-Currently studying:
-
-- Kubernetes
-- CI/CD
-- Docker Best Practices
-- AWS
-- Observability
-- Software Architecture
-- Distributed Systems
-- Event-Driven Architecture
-- Artificial Intelligence Engineering
-- AI Agents
-- Large Language Models (LLMs)
-
----
-
-# 🚀 Current Goals
-
-- Build production-ready projects
-- Contribute to Open Source
-- Deepen Cloud and DevOps knowledge
-- Improve System Design skills
-- Develop AI-powered applications
-- Grow as a Software Engineer
-
----
-
-# 🌎 Languages
-
-🇧🇷 Portuguese — Native
-
-🇺🇸 English — Intermediate (actively improving)
-
----
-
-# 📚 Beyond Software
-
-When I'm away from the keyboard, you'll usually find me:
-
-- 🥋 Practicing Jiu-Jitsu
-- 📖 Reading books
-- 🧠 Studying mathematics and physics
-- 🚀 Exploring new technologies
-
----
-
-# 📫 Contact
-
-📧 **Email**
-
-**marcelamartinstec@gmail.com**
-
-💼 **LinkedIn**
-
-**linkedin.com/in/marcela-martins01**
-
----
-
-<div align="center">
-
-### Thanks for visiting! ⭐
-
-Always open to collaborating on interesting projects and learning something new.
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/marcela-martins01/) · [GitHub](https://github.com/MarcelaMartinsRap)
